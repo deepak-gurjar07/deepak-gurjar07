@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Deepak Gurjar</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-- 🌱 I’m currently learning **Front End Development**
+- 🌱 I’m currently learning **Open CV Library**
+- 🌱 I’m currently working on **Face Recognition System using Open CV Library in CPP**
 
 - 📫 How to reach me **gurjardeepak602@gmail.com**
 
@@ -17,4 +18,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepak-gurjar07&show_icons=true&locale=en&layout=compact" alt="deepak-gurjar07" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-gurjar07&show_icons=true&locale=en" alt="deepak-gurjar07" /></p>
