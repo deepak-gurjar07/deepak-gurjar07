@@ -2,7 +2,7 @@
 <h3 align="center">A passionate computer science student from India</h3>
 
 - 🌱 I’m currently learning **Open CV Library**
-- 🔭 I’m currently working on **Face Detection System using Open CV Library in CPP**
+- 🔭 I’m currently working on **Malicious File and URL Scanner**
 
 - 📫 How to reach me **gurjardeepak602@gmail.com**
 
