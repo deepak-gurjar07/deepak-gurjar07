@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gurjar</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-- 🌱 I’m currently learning **Open CV Library**
+- 🌱 I’m currently learning **Flask Web Framework**
 - 🔭 I’m currently working on **Malicious File and URL Scanner**
 
 - 📫 How to reach me **gurjardeepak602@gmail.com**
