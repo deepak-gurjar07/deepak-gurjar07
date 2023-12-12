@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Deepak Gurjar</h1>
 <h3 align="center">A passionate computer science student from India</h3>
 
-<p align="left"> <a href="https://twitter.com/deepakgurjar_03" target="blank"><img src="https://img.shields.io/twitter/follow/deepakgurjar_03?logo=twitter&style=for-the-badge" alt="deepakgurjar_03" /></a> </p>
+<p align="left"> <a href="https://twitter.com/deepakgurjar_03" target="_blank"><img src="https://img.shields.io/twitter/follow/deepakgurjar_03?logo=twitter&style=for-the-badge" alt="deepakgurjar_03" /></a> </p>
 
 - 🔭 I’m currently working on [Malicious File and URL Scanner](https://github.com/deepak-gurjar07/SecureScan-File-and-URL-Scanner)
 
