@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-gurjar07&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-gurjar07" /> </p>
 
-- 🔭 I’m currently working on [Malicious File and URL Scanner](https://github.com/deepak-gurjar07/SecureScan-File-and-URL-Scanner)
+<!-- - 🔭 I’m currently working on [Malicious File and URL Scanner](https://github.com/deepak-gurjar07/SecureScan-File-and-URL-Scanner)-->
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **JavaScript**
 
 - 📫 How to reach me **gurjardeepak602@gmail.com**
 
