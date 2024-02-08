@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://twitter.com/deepakgurjar_03" target="blank"><img src="https://img.shields.io/twitter/follow/deepakgurjar_03?logo=twitter&style=for-the-badge" alt="deepakgurjar_03" /></a> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepak-gurjar07&label=Profile%20views&color=0e75b6&style=flat" alt="deepak-gurjar07" /> </p>
 
-- 🌱 I’m currently learning **Backend Development**
+- 🌱 I’m currently learning **WebSockets**
 
 - 📫 How to reach me **gurjardeepak602@gmail.com**
 
